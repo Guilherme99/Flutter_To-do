@@ -1,4 +1,4 @@
-# Conversor Moedas - Flutter
+# To do List - Flutter
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 <p align="center">
@@ -16,7 +16,7 @@
 
 Demandas pedidas no projeto:
 
-- [x] Criar o App de acordo com as aulas do Flutterando
+- [x] Criar o App de acordo com as aulas do Flutterando ~34 - ~54
 
 ## 💻 Pré-requisitos
 
@@ -30,7 +30,7 @@ Para instalar o projeto, siga estas etapas:
 
 ### Clone o repositório:
 ```
-  git clone https://github.com/Guilherme99/convert_coin.git
+  git clone https://github.com/Guilherme99/Flutter_To-do.git
 ```
 
 ### Navegue até a pasta, e instale as dependências:
