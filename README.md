@@ -2,7 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 <p align="center">
-  <img src="https://github.com/Guilherme99/convert_coin/blob/master/assets/WhatsApp%20Image%202021-10-05%20at%2015.29.56.jpeg" alt="App" height="600px" >
+  <img src="https://github.com/Guilherme99/Flutter_To-do/blob/main/assets/images/screenshot.png" alt="App" height="600px" >
 </p>
 <p align="center">
     Print da tela do app.
